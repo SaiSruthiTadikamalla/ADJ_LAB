@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+ <servlet>
+ <servlet-name>rg</servlet-name>
+ <servlet-class>RegistrationServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>rg</servlet-name>
+ <url-pattern>/RegistrationServlet</url-pattern>
+ </servlet-mapping>
+
+</web-app> 

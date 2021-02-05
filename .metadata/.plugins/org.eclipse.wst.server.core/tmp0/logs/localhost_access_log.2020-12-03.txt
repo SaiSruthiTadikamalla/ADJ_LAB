@@ -1,0 +1,10 @@
+127.0.0.1 - - [03/Dec/2020:17:11:29 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:11:30 +0530] "GET /FirstServlet/index.html HTTP/1.1" 200 235
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:11:34 +0530] "GET /FirstServlet/FirstServlet HTTP/1.1" 200 22
+127.0.0.1 - - [03/Dec/2020:17:20:08 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:20:09 +0530] "GET /FirstServlet/index.html HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:20:20 +0530] "GET /FirstServlet/FirstServlet HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:20:58 +0530] "GET /FirstServlet/FirstServlet HTTP/1.1" 200 20
+127.0.0.1 - - [03/Dec/2020:17:22:13 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:22:15 +0530] "GET /FirstServlet/index.html HTTP/1.1" 200 291
+0:0:0:0:0:0:0:1 - - [03/Dec/2020:17:22:20 +0530] "GET /FirstServlet/FirstServlet?personname=Sruthi HTTP/1.1" 200 23
